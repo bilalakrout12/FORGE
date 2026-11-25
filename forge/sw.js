@@ -1,6 +1,6 @@
 // Service worker : l'app fonctionne hors-ligne et se met à jour en arrière-plan.
 // Quand tu modifies un fichier, change VERSION pour forcer la mise à jour.
-const VERSION = 'forge-v2.0.0';
+const VERSION = 'forge-v2.1.0';
 const ASSETS = [
   './',
   './index.html',
@@ -14,12 +14,14 @@ const ASSETS = [
   './js/timer.js',
   './js/workouts.js',
   './js/drag.js',
+  './js/meals.js',
   './js/off.js',
   './js/scanner.js',
   './js/photos.js',
   './js/data/exercises.js',
   './js/data/program.js',
   './js/data/foods.js',
+  './js/data/recipes.js',
   './js/views/week.js',
   './js/views/session.js',
   './js/views/progress.js',

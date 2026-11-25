@@ -29,6 +29,9 @@ Web-app installable sur iPhone (PWA). Une fois installée, elle s'ouvre comme un
 - Scan de code-barres → fiche produit Open Food Facts (avec Nutri-Score).
 - Recherche dans une base locale (~170 aliments courants dont une trentaine de fromages) et en ligne sur Open Food Facts.
 - Création d'aliments perso (reconnus au prochain scan), favoris, récents, ajout rapide en kcal, copie des repas d'hier, suivi de l'eau.
+- Idées de repas végétariens pour le prochain repas, calculées sur les calories et les protéines qu'il reste dans la journée : la portion est ajustée (de 0,5 à 1,75) et les plats riches en protéines passent devant quand il en manque. Les idées changent chaque jour et évitent ce que tu as mangé ces derniers jours.
+- 70 recettes végétariennes (œufs et laitages inclus) avec ingrédients, quantités ajustées à la portion et étapes. Valeurs calculées à partir des ingrédients. Filtres : rapide, riche en protéines, à préparer à l'avance.
+- Mes plats : enregistre un plat que tu prépares souvent (ingrédients, nombre de portions, étapes), ou transforme en un geste les aliments notés pour un repas (« En faire un plat »). Une recette peut aussi être copiée dans tes plats pour l'adapter.
 - Cible calorique et macros calculées depuis ton profil (Mifflin-St Jeor × activité, puis déficit selon l'objectif). La cible suit ta moyenne de poids, et s'ajuste sur ta dépense réelle mesurée dès que tu as 14 jours de repas notés + 6 pesées sur 2 semaines.
 
 **Corps**
